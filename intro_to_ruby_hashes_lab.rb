@@ -3,10 +3,8 @@ def new_hash
 	monopoly = {}
 
 end
-def monopoly = {
-		:railroads=>{}
-	}
-end
+
+
 
  
 def actor
