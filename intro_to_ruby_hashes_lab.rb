@@ -3,8 +3,10 @@ def new_hash
 	monopoly = {}
 
 end
-
-
+monopoly = {
+		:railroads=>{}
+	}
+end
 monopoly =  {
   :railroads=>
   {
